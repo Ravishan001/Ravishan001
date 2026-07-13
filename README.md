@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Ravishan Tennakoon GitHub Banner" />
+</p>
+
 <div align="center">
 
 # Hi, I'm Ravishan Tennakoon 👋
