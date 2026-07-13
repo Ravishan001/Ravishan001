@@ -613,3 +613,24 @@ I'm open to collaborating on innovative full-stack, AI, and SaaS projects.
 ⭐ From [Ravishan Tennakoon](https://github.com/Ravishan001)
 
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ravishan001/Ravishan001/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ravishan001/Ravishan001/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Ravishan's GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Ravishan001/Ravishan001/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
